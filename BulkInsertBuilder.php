@@ -1,7 +1,5 @@
 <?php
 
-namespace mmedojevicbg\Yii2-BulkInsertBuilder;
-
 class BulkInsertBuilder {
     const STATE_NEW = 0;
     const STATE_APPENDING = 1;
