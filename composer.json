@@ -1,0 +1,15 @@
+{
+	"name": "mmedojevicbg/Yii2-BulkInsertBuilder",
+	"description": "Bulk insert builder yii2 extension",
+	"type": "yii2-extension",
+	"license": "GPLv3",
+	"authors": [
+		{
+			"name": "Marko Medojevic",
+			"email": "mmedojevicbg@gmail.com"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "*"
+	}
+}
