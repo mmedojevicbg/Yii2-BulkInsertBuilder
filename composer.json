@@ -12,5 +12,8 @@
 	],
 	"require": {
 		"yiisoft/yii2": "*"
-	}
+	},
+	"autoload": {
+		"files": ["BulkInsertBuilder.php"]
+  	}
 }
